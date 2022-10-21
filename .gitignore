@@ -1,5 +1,6 @@
-node_modules
-
-#Hardhat files
 cache
 artifacts
+.env
+node_modules
+Casino_ref.sol
+
